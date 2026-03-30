@@ -1,3 +1,11 @@
+![.NET](https://img.shields.io/badge/.NET-7.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/ilgiso91/ATM-Project-CSharp)
+![Repo Size](https://img.shields.io/github/repo-size/ilgiso91/ATM-Project-CSharp)
+
+
+
+
 # ATM Simulation – C# Console Application
 
 A fully featured ATM simulation built with C#.  
