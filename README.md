@@ -40,13 +40,13 @@ This project was created to practice:
 - Modular C# architecture  
 - Real-world application logic
 
-- ## 🖼️ Screenshots
+🖼️ Screenshots
 
-### Start Screen
-![Start Screen](Screenshots/start_screen.png)
+Start Screen  
+![Start Screen](Screenshots/1.png)
 
-### Login Menu
-![Login Menu](Screenshots/login_menu.png)
+Login Menu  
+![Login Menu](Screenshots/2.png)
 
-### Main Menu
-![Main Menu](Screenshots/main_menu.png)
+Main Menu  
+![Main Menu](Screenshots/3.png)
