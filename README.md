@@ -38,4 +38,15 @@ This project was created to practice:
 - OOP principles  
 - File handling (JSON)  
 - Modular C# architecture  
-- Real-world application logic  
+- Real-world application logic
+
+- ## 🖼️ Screenshots
+
+### Start Screen
+![Start Screen](Screenshots/start_screen.png)
+
+### Login Menu
+![Login Menu](Screenshots/login_menu.png)
+
+### Main Menu
+![Main Menu](Screenshots/main_menu.png)
