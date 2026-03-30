@@ -1,0 +1,14 @@
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\bin\Debug\net7.0\atm_Projesi.exe
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\bin\Debug\net7.0\atm_Projesi.deps.json
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\bin\Debug\net7.0\atm_Projesi.runtimeconfig.json
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\bin\Debug\net7.0\atm_Projesi.dll
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\bin\Debug\net7.0\atm_Projesi.pdb
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.AssemblyInfo.cs
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.dll
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\refint\atm_Projesi.dll
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.pdb
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\atm_Projesi.genruntimeconfig.cache
+C:\Users\gizem\source\repos\atm_Projesi\atm_Projesi\obj\Debug\net7.0\ref\atm_Projesi.dll

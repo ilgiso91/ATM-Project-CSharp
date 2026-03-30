@@ -1,0 +1,34 @@
+{
+  "hesaplar": [
+    {
+      "HesapNo": "1001",
+      "Sahip": "Gizem",
+      "Bakiye": 5000,
+      "Sifre": "1234",
+      "HesapTuru": "Vadesiz",
+      "FaizOrani": 0.02,
+      "GunlukLimit": 5000,
+      "BugunCekilen": 0,
+      "SonIslemTarihi": "2026-03-30T00:00:00+02:00",
+      "Log": []
+    },
+    {
+      "HesapNo": "1002",
+      "Sahip": "Ahmet",
+      "Bakiye": 3000,
+      "Sifre": "1111",
+      "HesapTuru": "Vadeli",
+      "FaizOrani": 0.02,
+      "GunlukLimit": 5000,
+      "BugunCekilen": 0,
+      "SonIslemTarihi": "2026-03-30T00:00:00+02:00",
+      "Log": []
+    }
+  ],
+  "ayarlar": {
+    "Dil": "TR",
+    "Tema": "colorful",
+    "GunlukLimit": 5000,
+    "SesAcik": true
+  }
+}
